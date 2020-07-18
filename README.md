@@ -124,7 +124,7 @@ http://195.181.163.183:2200/PY-N/HBO_Family_HD-br/index.m3u8?token=RED_jQWvqfvlN
 http://195.181.163.183:2200/PY-N/HBO_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="FILME",HBO MUNDI
-http://195.181.162.87:2200/BR1/max-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbomundi_9f682df2_a56521fb87d2390047a7abfe1c7a3463da24b9ec/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/400px-HBO_Pop.svg.png" group-title="FILME",HBO POP
 http://195.181.162.87:2200/BR1/maxuphd-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
@@ -317,7 +317,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p528k/index.m3u8
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w2032184120.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/52/Logotipo_da_Rede_SIM.png" group-title="NOTICIA",TV SIM COLATINA
-https://stmv1.srvsite.com/tvsimcolatina/tvsimcolatina/chunklist_w395941247.m3u8
+https://stmv1.srvsite.com/tvsimcolatina/tvsimcolatina/chunklist_w676819982.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_7e/7ed8cf4803dfa2c13401a1b93d4a7e8b.jpeg" group-title="VARIEDADE",TV8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b546000.m3u8
