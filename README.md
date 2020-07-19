@@ -166,7 +166,7 @@ http://195.181.163.183:2200/PY-N/Telecine_Cult_HD-br/index.m3u8?token=RED_jQWvqf
 http://195.181.163.183:2200/PY-N/TBS_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILME",TCM
-http://195.181.162.87:2200/BR1/tcm-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZuWotuX/a/BZi1mdyXy2GXntG0nZuWotuX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nZuWotuX&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE1OTUxODc5MDksImV4cCI6MTU5NTIwOTUwOX0.zafo4pLdBKJdTyGXL5xejVPx40DQHhzJb2QtvUV4MFE
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="FILME",TNT
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
@@ -178,7 +178,7 @@ http://195.181.163.183:2200/PY-N/Universal_TV_HD-br/index.m3u8?token=RED_jQWvqfv
 http://195.181.163.183:2200/PY-N/Warner_Channel_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="DESENHO",CARTOON NETWORK
-http://195.181.162.87:2200/BR1/cartoonnetwork-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJuWmdC2/a/BZi1mdyXy2GXntG0nJuWmdC2/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJuWmdC2&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE1OTUxODc2NjAsImV4cCI6MTU5NTIwOTI2MH0.poIX7xz7tPU8i6whjVHeYu_5-Zh2dQFPIooXHGm25_U
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png" group-title="DOCUMENTARIO",TLC
 http://195.181.163.183:2200/PY-N/TLC_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrFeJ-mg==,1591219896.0469580283
@@ -192,6 +192,7 @@ http://195.181.163.183:2200/PY-N/Viva_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqx
 http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",FOX 2SPORTS
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJy0nJGX/a/BZi1mdyXy2GXntG0nJy0nJGX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJy0nJGX&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE1OTUxODc5MDksImV4cCI6MTU5NTIwOTUwOX0.zafo4pLdBKJdTyGXL5xejVPx40DQHhzJb2QtvUV4MFE
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1600px-BandSports_logo.svg.png" group-title="ESPORTES",BAND SPORTS
 http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
@@ -213,7 +214,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPORTES",ESPAN 2
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/56/FishTV_logo.png" group-title="ESPORTES",FISH TV
 http://195.181.163.183:2200/BR/fishtvhd-br/index.m3u8?token=RED_FCMtB3BCZGE99OLgFNLdkw==,1592006874.0469580283
  
@@ -233,7 +234,7 @@ http://195.181.163.183:2200/PY-N/AE_HD-br/index.m3u8?token=RED_jQWvqfvlNUjILqxrF
 http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w850288381.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="NOTICIA",RECORD ES
-https://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w141047799.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1280px-Logotipo_do_SBT.svg.png" group-title="NOTICIA",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
@@ -308,7 +309,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png" group-title="NOTICIA",REDE TV
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+https://tv.bahialink.net.br/media/n/BZfJAdK/a/BZfJAdK/360p/chunks.m3u8?ch=BZfJAdK&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE1OTUxODc0OTMsImV4cCI6MTU5NTIwOTA5M30.dv-Eo0AcCT3pvhYx-5xFu0hHTcT4G2YTS3Vesowbg8w
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="IGREJA",CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p528k/index.m3u8
@@ -492,3 +493,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="CAMERA",ESPAÇO
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" group-title="FILME",FX
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXmZGZ/a/BZi1mdyXy2GXntG0nJyXmZGZ/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyXmZGZ&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE1OTUxODc3OTQsImV4cCI6MTU5NTIwOTM5NH0.Rn0MMqK16PThXR2jamh4bOUQRYFkuZ1w5HPqaQTL0Fk
+
+
